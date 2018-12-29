@@ -1,1 +1,1 @@
-react build with redux,eslint, scss to css, babel, fetch polyfill
+react build with mobx,eslint, scss to css, babel, fetch polyfill
